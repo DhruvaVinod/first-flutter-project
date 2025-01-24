@@ -1,6 +1,6 @@
-# my_first_click_app
+# Ramdom pairs of words Generator 
 
-A new Flutter project.
+A new Flutter project... 
 
 ## Getting Started
 
